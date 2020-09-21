@@ -1,0 +1,45 @@
+body {
+    background-color: whitesmoke;
+  }
+
+  .thisIsRed {
+    color: red;
+  }
+
+  .thisIsBlue {
+    color: blue;
+}
+
+.thisIsGreen {
+      color: green;
+}
+
+.thisIsBig {
+    font-size: 28px;
+}
+
+.thisIsSmall {
+    font-size: 8px;
+}
+
+  .centered {
+    text-align: center;
+  }
+
+  .thisIsBold {
+      font-weight: bold;
+  }
+
+  .fontFamily {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .mixed {
+      font-size: 26px;
+      font-weight: bold;
+      color: orange;
+  }
+
+  .styledFont {
+    color: green;
+  }
